@@ -68,13 +68,13 @@ footer {
 
 @media (max-width: 1024px) {
 	header {
-		background-color: rgb(61, 112, 121);
+		background-color: rgb(101, 165, 177);
 	}
 h1 {
-	background-color: rgb(61, 112, 121);
+	background-color: rgb(101, 165, 177);
 }
 path {
-	fill: rgb(61, 112, 121);
+	fill: rgb(101, 165, 177);
 }
 }
 
